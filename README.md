@@ -1,7 +1,7 @@
 # Predicting Loan Approval using Logistic Regression Analysis
 
 
-<img src="https://images.unsplash.com/photo-1499750310107-5fef28a66643?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2670&q=80" width = 500 alt="" title="" />
+<img src="https://images.unsplash.com/photo-1499750310107-5fef28a66643?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2670&q=80" width = 800 alt="" title="" />
 
 ## Context
 
@@ -118,7 +118,7 @@ While the dataset shows certain imbalances in various categorical features, the 
 
 In conclusion, applicants who are married, have two dependents, are graduates, possess a credit history, reside in a semi-urban area, and seek a loan amount between 400-500 or 0-100 for a term of 0-300 days are more likely to receive loan approval. Importantly, the availability of credit history is the most critical factor in obtaining loan approval.
 
-<img src="images/11.png" width = 500 alt="" title="Barplots of Categorical columns for different loan statuses" />
+<img src="images/11.png" width = 800 alt="" title="Barplots of Categorical columns for different loan statuses" />
 
 
 ## Logistic Regresion Analysis
