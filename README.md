@@ -44,6 +44,6 @@ Using the provided dataset, our study will aim to determine which particular cus
 
 
 
-<img src="images/1.png" width = 300 alt="Alt text that describes the graphic" title="Title text" />
+<img src="images/1.png" width = 500 alt="Alt text that describes the graphic" title="Title text" />
 
 
