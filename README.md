@@ -8,7 +8,6 @@
 Dream Housing Finance company deals in all kinds of home loans. They have presence across all urban, semi urban and rural areas. Customer first applies for home loan and after that company validates the customer eligibility for loan.
 Company wants to automate the loan eligibility process (real time) based on customer detail provided while filling online application form. These details are Gender, Marital Status, Education, Number of Dependents, Income, Loan Amount, Credit History and others. To automate this process, they have provided a dataset to identify the customers segments that are eligible for loan amount so that they can specifically target these 
 
-## Datasource: https://www.kaggle.com/datasets/devzohaib/eligibility-prediction-for-loan
 
 ## Feature Description
 
@@ -28,7 +27,7 @@ Company wants to automate the loan eligibility process (real time) based on cust
 | Property_Area       | Urban/Semi Urban/Rural                     |
 | Loan_Status         | (Target) Loan approved (Y/N)              |
 
-
+#### *Datasource: https://www.kaggle.com/datasets/devzohaib/eligibility-prediction-for-loan*
 
 ## Project Goal
 Using the provided dataset, our study will aim to determine which particular customer profiles are more likely to receive loan approval. Subsequently, we will develop a machine learning model using Logistic Regression, which will automate the binary classification of loan status (approved/denied).
@@ -99,6 +98,7 @@ We undertook an analysis to explore potential relationships between numeric feat
 <img src="images/7.png" width = 500 alt="" title="Histogram of loan_amount for different loan statuses" />
 <img src="images/8.png" width = 500 alt="" title="Histogram of loan_amount_term for different loan statues" />
 <img src="images/9.png" width = 500 alt="" title="Histogram of total_income for different loan statuses" />
+<img src="images/10.png" width = 500 alt="" title="Scatter plots of loan_amount & total_income for different loan statuses" />
 
 
 ### Analysis of Categorical Features Relative to the Target Variable
@@ -118,7 +118,8 @@ While the dataset shows certain imbalances in various categorical features, the 
 
 In conclusion, applicants who are married, have two dependents, are graduates, possess a credit history, reside in a semi-urban area, and seek a loan amount between 400-500 or 0-100 for a term of 0-300 days are more likely to receive loan approval. Importantly, the availability of credit history is the most critical factor in obtaining loan approval.
 
-<img src="images/10.png" width = 500 alt="" title="Barplots of Categorical columns for different loan statuses" />
+<img src="images/11.png" width = 500 alt="" title="Barplots of Categorical columns for different loan statuses" />
+
 
 ## Logistic Regresion Analysis
 
