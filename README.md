@@ -49,7 +49,7 @@ Using the provided dataset, our study will aim to determine which particular cus
     - 5-4. Model Building - Logistic Regression
     - 5-5. Model Validation - Confusion Matrix
 
-*In this document, I present a summary of the key insights derived from the EDA and Logistic Regression model for loan approval prediction. Additionally, I provide the model's score and validation results using a Confusion Matrix. For more detailed code snippets and analysis, please refer to the "laon.ipynb" file.*
+*In this document, I present a summary of the key insights derived from the EDA and Logistic Regression model for loan approval prediction. Additionally, I provide the model's score and validation results using a Confusion Matrix. For more detailed code snippets and analysis, please refer to the "loan.ipynb" file.*
 
 
 
